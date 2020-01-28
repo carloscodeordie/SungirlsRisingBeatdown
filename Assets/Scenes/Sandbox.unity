@@ -2994,7 +2994,7 @@ GameObject:
   - component: {fileID: 1896362625}
   - component: {fileID: 1896362624}
   - component: {fileID: 1896362623}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Foreground
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4458,6 +4458,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 8563612270855440577, guid: fb2335f821a720f4d9070395b03b4a33,
+        type: 3}
+      propertyPath: m_Name
+      value: Player
+      objectReference: {fileID: 0}
     - target: {fileID: -8787146263431021966, guid: fb2335f821a720f4d9070395b03b4a33,
         type: 3}
       propertyPath: m_Size.x
@@ -4468,20 +4473,15 @@ PrefabInstance:
       propertyPath: m_Offset.y
       value: -0.02
       objectReference: {fileID: 0}
-    - target: {fileID: 8563612270855440577, guid: fb2335f821a720f4d9070395b03b4a33,
-        type: 3}
-      propertyPath: m_Name
-      value: Player
-      objectReference: {fileID: 0}
     - target: {fileID: 8563612270855440579, guid: fb2335f821a720f4d9070395b03b4a33,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -5.03
+      value: -0.6
       objectReference: {fileID: 0}
     - target: {fileID: 8563612270855440579, guid: fb2335f821a720f4d9070395b03b4a33,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.288
+      value: 2.51
       objectReference: {fileID: 0}
     - target: {fileID: 8563612270855440579, guid: fb2335f821a720f4d9070395b03b4a33,
         type: 3}
